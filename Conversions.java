@@ -60,6 +60,44 @@ public class Conversions {
     public static double CAD_to_HKD(double x) { return x * 5.4476; }
     public static double CAD_to_SGD(double x) { return x * 0.9387; }
 
-    
+    public static double AUD_to_USD(double x) { return x * 0.6292; }
+    public static double AUD_to_EUR(double x) { return x * 0.5817; }
+    public static double AUD_to_GBP(double x) { return x * 0.4861; }
+    public static double AUD_to_JPY(double x) { return x * 94.98; }
+    public static double AUD_to_CHF(double x) { return x * 0.5988; }
+    public static double AUD_to_CAD(double x) { return x * 0.8589; }
+    public static double AUD_to_CNY(double x) { return x * 4.6021; }
+    public static double AUD_to_HKD(double x) { return x * 5.0002; }
+    public static double AUD_to_SGD(double x) { return x * 0.8582; }
+
+    public static double HKD_to_USD(double x) { return x * 0.1286; }
+    public static double HKD_to_EUR(double x) { return x * 0.1190; }
+    public static double HKD_to_GBP(double x) { return x * 0.0994; }
+    public static double HKD_to_JPY(double x) { return x * 19.28; }
+    public static double HKD_to_CHF(double x) { return x * 0.1225; }
+    public static double HKD_to_CAD(double x) { return x * 0.1836; }
+    public static double HKD_to_AUD(double x) { return x * 0.2004; }
+    public static double HKD_to_CNY(double x) { return x * 0.9329; }
+    public static double HKD_to_SGD(double x) { return x * 0.1728; }
+
+    public static double SGD_to_USD(double x) { return x * 0.7456; }
+    public static double SGD_to_EUR(double x) { return x * 0.6906; }
+    public static double SGD_to_GBP(double x) { return x * 0.5767; }
+    public static double SGD_to_JPY(double x) { return x * 112.35; }
+    public static double SGD_to_CHF(double x) { return x * 0.7098; }
+    public static double SGD_to_CAD(double x) { return x * 1.0652; }
+    public static double SGD_to_AUD(double x) { return x * 1.1647; }
+    public static double SGD_to_CNY(double x) { return x * 5.0934; }
+    public static double SGD_to_HKD(double x) { return x * 5.7912; }
+
+    public static double CNY_to_USD(double x) { return x * 0.1377; }
+    public static double CNY_to_EUR(double x) { return x * 0.1275; }
+    public static double CNY_to_GBP(double x) { return x * 0.1065; }
+    public static double CNY_to_JPY(double x) { return x * 20.85; }
+    public static double CNY_to_CHF(double x) { return x * 0.1326; }
+    public static double CNY_to_CAD(double x) { return x * 0.1987; }
+    public static double CNY_to_AUD(double x) { return x * 0.2174; }
+    public static double CNY_to_HKD(double x) { return x * 1.0717; }
+    public static double CNY_to_SGD(double x) { return x * 0.1962; }
     // Add more methods as needed for other conversions
 }
