@@ -23,9 +23,10 @@ public class Currency_Converter_GUI extends Conversions{
         JTextArea current_currency = new JTextArea(1, 1);
         current_currency.setLineWrap(true);
 
-        String[] currency = {"USD", "EUR", "GBP", "JPY", "CHF", "CAD", "AUD", "CNY", "HKD", "SGD"};
-        JComboBox<String> dropdown = new JComboBox<>(currency);
-        JComboBox<String> dropdown2 = new JComboBox<>(currency);
+        String[] currency1 = {"USD", "EUR", "GBP", "JPY", "CHF", "CAD", "AUD", "CNY", "HKD", "SGD"};
+        String[] currency2 = {"USD", "EUR", "GBP", "JPY", "CHF", "CAD", "AUD", "CNY", "HKD", "SGD"};
+        JComboBox<String> dropdown = new JComboBox<>(currency1);
+        JComboBox<String> dropdown2 = new JComboBox<>(currency2);
         
         panel.add(title);
         panel.add(dropdown);
