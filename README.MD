@@ -23,7 +23,7 @@ To run the Currency Converter application, follow these steps:
 5. Run the `Currency_Converter_GUI.java` file to launch the application.
 
 ## Other
-These currencies are as of 03/28/25
+These conversions are as of 03/28/25 and can be easily changed in the Conversions.java file
 
 ## Usage
 1. Enter the amount you wish to convert.
