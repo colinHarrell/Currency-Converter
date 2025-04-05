@@ -22,6 +22,9 @@ To run the Currency Converter application, follow these steps:
 4. Compile the Java files.
 5. Run the `Currency_Converter_GUI.java` file to launch the application.
 
+## Other
+These currencies are as of 03/28/25
+
 ## Usage
 1. Enter the amount you wish to convert.
 2. Select the currency you want to convert from and to.
